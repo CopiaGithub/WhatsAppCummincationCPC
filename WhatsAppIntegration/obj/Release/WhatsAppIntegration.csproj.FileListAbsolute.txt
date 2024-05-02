@@ -1,0 +1,18 @@
+C:\Users\copiadmin2\Desktop\WhatsAppIntegration_git\WhatsAppIntegration\bin\Release\WhatsAppIntegration.exe.config
+C:\Users\copiadmin2\Desktop\WhatsAppIntegration_git\WhatsAppIntegration\bin\Release\WhatsAppIntegration.exe
+C:\Users\copiadmin2\Desktop\WhatsAppIntegration_git\WhatsAppIntegration\bin\Release\WhatsAppIntegration.pdb
+C:\Users\copiadmin2\Desktop\WhatsAppIntegration_git\WhatsAppIntegration\bin\Release\Newtonsoft.Json.dll
+C:\Users\copiadmin2\Desktop\WhatsAppIntegration_git\WhatsAppIntegration\bin\Release\Newtonsoft.Json.xml
+C:\Users\copiadmin2\Desktop\WhatsAppIntegration_git\WhatsAppIntegration\obj\Release\WhatsAppIntegration.csproj.CoreCompileInputs.cache
+C:\Users\copiadmin2\Desktop\WhatsAppIntegration_git\WhatsAppIntegration\obj\Release\WhatsAppIntegration.csproj.CopyComplete
+C:\Users\copiadmin2\Desktop\WhatsAppIntegration_git\WhatsAppIntegration\obj\Release\WhatsAppIntegration.exe
+C:\Users\copiadmin2\Desktop\WhatsAppIntegration_git\WhatsAppIntegration\obj\Release\WhatsAppIntegration.pdb
+C:\Users\copiadmin2\Desktop\Scheduler Proj\WhatsAppIntegration_git\WhatsAppIntegration\bin\Release\WhatsAppIntegration.exe.config
+C:\Users\copiadmin2\Desktop\Scheduler Proj\WhatsAppIntegration_git\WhatsAppIntegration\bin\Release\WhatsAppIntegration.exe
+C:\Users\copiadmin2\Desktop\Scheduler Proj\WhatsAppIntegration_git\WhatsAppIntegration\bin\Release\WhatsAppIntegration.pdb
+C:\Users\copiadmin2\Desktop\Scheduler Proj\WhatsAppIntegration_git\WhatsAppIntegration\bin\Release\Newtonsoft.Json.dll
+C:\Users\copiadmin2\Desktop\Scheduler Proj\WhatsAppIntegration_git\WhatsAppIntegration\bin\Release\Newtonsoft.Json.xml
+C:\Users\copiadmin2\Desktop\Scheduler Proj\WhatsAppIntegration_git\WhatsAppIntegration\obj\Release\WhatsAppIntegration.csproj.CoreCompileInputs.cache
+C:\Users\copiadmin2\Desktop\Scheduler Proj\WhatsAppIntegration_git\WhatsAppIntegration\obj\Release\WhatsAppIntegration.csproj.CopyComplete
+C:\Users\copiadmin2\Desktop\Scheduler Proj\WhatsAppIntegration_git\WhatsAppIntegration\obj\Release\WhatsAppIntegration.exe
+C:\Users\copiadmin2\Desktop\Scheduler Proj\WhatsAppIntegration_git\WhatsAppIntegration\obj\Release\WhatsAppIntegration.pdb

@@ -1,0 +1,10 @@
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_CPC\WhatsAppIntegration_git\WhatsAppIntegration\bin\Debug\WhatsAppIntegration_CPC.exe.config
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_CPC\WhatsAppIntegration_git\WhatsAppIntegration\bin\Debug\WhatsAppIntegration_CPC.exe
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_CPC\WhatsAppIntegration_git\WhatsAppIntegration\bin\Debug\WhatsAppIntegration_CPC.pdb
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_CPC\WhatsAppIntegration_git\WhatsAppIntegration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_CPC\WhatsAppIntegration_git\WhatsAppIntegration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_CPC\WhatsAppIntegration_git\WhatsAppIntegration\obj\Debug\WhatsAppIntegration_CPC.csproj.AssemblyReference.cache
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_CPC\WhatsAppIntegration_git\WhatsAppIntegration\obj\Debug\WhatsAppIntegration_CPC.csproj.CoreCompileInputs.cache
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_CPC\WhatsAppIntegration_git\WhatsAppIntegration\obj\Debug\WhatsAppIntegration_CPC.csproj.CopyComplete
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_CPC\WhatsAppIntegration_git\WhatsAppIntegration\obj\Debug\WhatsAppIntegration_CPC.exe
+C:\Users\patil\Desktop\Copia Projects\ProjectMapping\SFAproject\WhatsAppMsgProject\WhatsAppIntegration_CPC\WhatsAppIntegration_git\WhatsAppIntegration\obj\Debug\WhatsAppIntegration_CPC.pdb
